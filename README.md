@@ -2,7 +2,7 @@
 Google's most advanced large language model (LLM) to date.
 Focuses on being multimodal, meaning it can understand and process different types of information including text, code, audio, images, and video https://blog.google/technology/ai/google-gemini-ai/
 # Key Feautres of Gemini-AI
-<br>
+
 ### Multimodal Capabilities
 
 As previously mentioned, Gemini AI possesses versatile capabilities in handling various information formats, making it suitable for a wide range of tasks.
